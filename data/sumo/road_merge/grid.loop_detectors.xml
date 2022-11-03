@@ -1,0 +1,17 @@
+<additional>
+    <inductionLoop id="A1B1_0_start_loop" lane="A1B1_0" pos="10" freq="30" file="output/loop_detectors.xml"/>
+    <inductionLoop id="A1B1_0_mid_loop" lane="A1B1_0" pos="100" freq="30" file="output/loop_detectors.xml"/>
+    <inductionLoop id="A1B1_0_end_loop" lane="A1B1_0" pos="-10" freq="30" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="B1C1_0_start_loop" lane="B1C1_0" pos="10" freq="30" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B1C1_0_mid_loop" lane="B1C1_0" pos="100" freq="30" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B1C1_0_end_loop" lane="B1C1_0" pos="-10" freq="30" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="A2B2_0_start_loop" lane="A2B2_0" pos="10" freq="30" file="output/loop_detectors.xml"/>
+    <inductionLoop id="A2B2_0_mid_loop" lane="A2B2_0" pos="50" freq="30" file="output/loop_detectors.xml"/>
+    <inductionLoop id="A2B2_0_end_loop" lane="A2B2_0" pos="-10" freq="30" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="B2B1_0_start_loop" lane="B2B1_0" pos="10" freq="30" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B2B1_0_mid_loop" lane="B2B1_0" pos="60" freq="30" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B2B1_0_end_loop" lane="B2B1_0" pos="-10" freq="30" file="output/loop_detectors.xml"/>
+</additional>

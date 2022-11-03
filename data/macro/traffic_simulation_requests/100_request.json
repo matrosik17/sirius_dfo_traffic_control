@@ -1,0 +1,339 @@
+{
+  "simulation_time": 600,
+  "optimization_duration": 0.2,
+  "traffic_flows": [
+    {
+      "chain_id": 1,
+      "density": 0.05,
+      "intensity": 0.8
+    }
+  ],
+  "init_plan": [
+    {
+      "controller_id": 301,
+      "phases": [
+        {
+          "phase_id": 50,
+          "phase_time": 10
+        },
+        {
+          "phase_id": 51,
+          "phase_time": 50
+        }
+      ],
+      "shift": 0
+    }
+  ],
+  "programs_states": [],
+  "programs_bounds": [
+    {
+      "controller_id": 301,
+      "mode": "strict_cycle",
+      "shift": 0,
+      "cycle_time": 60,
+      "phases": [
+        {
+          "phase_id": 50,
+          "phase_min": 5,
+          "phase_max": 60
+        },
+        {
+          "phase_id": 51,
+          "phase_min": 5,
+          "phase_max": 60
+        }
+      ]
+    }
+  ],
+  "init_traffic_state": {
+    "distribution": [
+      {
+        "chain_id": 5,
+        "vertices": [
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          }
+        ]
+      },
+      {
+        "chain_id": 4,
+        "vertices": [
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          }
+        ]
+      },
+      {
+        "chain_id": 6,
+        "vertices": [
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          }
+        ]
+      },
+      {
+        "chain_id": 0,
+        "vertices": [
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          }
+        ]
+      },
+      {
+        "chain_id": 3,
+        "vertices": [
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          }
+        ]
+      },
+      {
+        "chain_id": 2,
+        "vertices": [
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          }
+        ]
+      },
+      {
+        "chain_id": 1,
+        "vertices": [
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          },
+          {
+            "omega": 0.0,
+            "rho": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  "graph": {
+    "controllers": [
+      {
+        "controller_id": 301,
+        "phases": [
+          {
+            "green_links": [
+              1
+            ],
+            "phase_id": 50
+          },
+          {
+            "green_links": [],
+            "phase_id": 51
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "input_chain_id": 1,
+        "link_id": 5,
+        "output_chain_id": 2,
+        "weight": 1.0
+      },
+      {
+        "input_chain_id": 2,
+        "link_id": 4,
+        "output_chain_id": 3,
+        "weight": 1.0
+      },
+      {
+        "input_chain_id": 3,
+        "link_id": 3,
+        "output_chain_id": 0,
+        "weight": 1.0
+      },
+      {
+        "input_chain_id": 0,
+        "link_id": 1,
+        "output_chain_id": 6,
+        "weight": 1.0
+      },
+      {
+        "input_chain_id": 6,
+        "link_id": 2,
+        "output_chain_id": 4,
+        "weight": 1.0
+      },
+      {
+        "input_chain_id": 4,
+        "link_id": 0,
+        "output_chain_id": 5,
+        "weight": 1.0
+      }
+    ],
+    "model_parameters": {
+      "rho_max": 0.1333333,
+      "omega_safe_min": 8.350001549447544,
+      "omega_safe_max": 13.690001549435099,
+      "mean": 10.881854589284977,
+      "std": 1.2093625977731195,
+      "coeffs": {
+        "alpha": [
+          0.0,
+          0.061777899799324534,
+          0.010901459950236243,
+          0.002234373628050969,
+          -0.0007839055947150575,
+          3.338371542452056e-05,
+          -2.200911390611108e-05,
+          2.781099486202045e-06,
+          3.173397300201055e-05,
+          -6.023550967140062e-06,
+          -8.655607471110767e-06,
+          2.5778361440555217e-06
+        ],
+        "lambda": [
+          0.0,
+          14.757262267933474,
+          -0.7642120879847064,
+          -0.2872731079851884,
+          0.22616541387318717,
+          -0.03675159071603715,
+          -0.0006638516450439082,
+          0.00023343726624867574,
+          -0.005111213029583039,
+          0.0016480672936952509,
+          0.0011971217653224387,
+          -0.0004217261195417683
+        ],
+        "p": [
+          0.0,
+          0.085409247492536,
+          -0.002221682153325773,
+          -0.0010601602460172399,
+          0.0007267383317588842,
+          -0.0001633342121605304,
+          -2.9782824866633928e-05,
+          2.364871266226175e-05,
+          -2.1779256370481613e-05,
+          1.5927366927833201e-06,
+          7.255861972927521e-06,
+          -2.091578271767191e-06
+        ],
+        "rho_c": null,
+        "Q_max": null
+      }
+    },
+    "vertices": [
+      {
+        "chain_id": 1,
+        "length": 60.0
+      },
+      {
+        "chain_id": 2,
+        "length": 60.0
+      },
+      {
+        "chain_id": 3,
+        "length": 60.0
+      },
+      {
+        "chain_id": 0,
+        "length": 60.0
+      },
+      {
+        "chain_id": 6,
+        "length": 60.0
+      },
+      {
+        "chain_id": 4,
+        "length": 60.0
+      },
+      {
+        "chain_id": 5,
+        "length": 60.0
+      }
+    ]
+  }
+}

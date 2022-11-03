@@ -1,0 +1,1965 @@
+{
+    "simulation_time": 600,
+    "optimization_duration": 10,
+    "dx": 20.0,
+    "graph": {
+        "vertices": [
+            {
+                "chain_id": 1,
+                "length": 192.8
+            },
+            {
+                "chain_id": 2,
+                "length": 192.8
+            },
+            {
+                "chain_id": 3,
+                "length": 192.8
+            },
+            {
+                "chain_id": 4,
+                "length": 192.8
+            },
+            {
+                "chain_id": 5,
+                "length": 192.8
+            },
+            {
+                "chain_id": 6,
+                "length": 185.6
+            },
+            {
+                "chain_id": 7,
+                "length": 185.6
+            },
+            {
+                "chain_id": 8,
+                "length": 192.8
+            },
+            {
+                "chain_id": 9,
+                "length": 185.6
+            },
+            {
+                "chain_id": 10,
+                "length": 192.8
+            },
+            {
+                "chain_id": 11,
+                "length": 185.6
+            },
+            {
+                "chain_id": 12,
+                "length": 192.8
+            },
+            {
+                "chain_id": 13,
+                "length": 192.8
+            },
+            {
+                "chain_id": 14,
+                "length": 185.6
+            },
+            {
+                "chain_id": 15,
+                "length": 192.8
+            },
+            {
+                "chain_id": 16,
+                "length": 185.6
+            },
+            {
+                "chain_id": 17,
+                "length": 192.8
+            },
+            {
+                "chain_id": 18,
+                "length": 185.6
+            },
+            {
+                "chain_id": 19,
+                "length": 185.6
+            },
+            {
+                "chain_id": 20,
+                "length": 192.8
+            },
+            {
+                "chain_id": 21,
+                "length": 192.8
+            },
+            {
+                "chain_id": 22,
+                "length": 192.8
+            },
+            {
+                "chain_id": 23,
+                "length": 192.8
+            },
+            {
+                "chain_id": 24,
+                "length": 192.8
+            }
+        ],
+        "links": [
+            {
+                "link_id": 1,
+                "input_chain_id": 1,
+                "output_chain_id": 5,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 2,
+                "input_chain_id": 1,
+                "output_chain_id": 7,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 3,
+                "input_chain_id": 1,
+                "output_chain_id": 6,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 4,
+                "input_chain_id": 3,
+                "output_chain_id": 7,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 5,
+                "input_chain_id": 3,
+                "output_chain_id": 6,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 6,
+                "input_chain_id": 3,
+                "output_chain_id": 4,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 7,
+                "input_chain_id": 9,
+                "output_chain_id": 4,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 8,
+                "input_chain_id": 9,
+                "output_chain_id": 5,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 9,
+                "input_chain_id": 9,
+                "output_chain_id": 7,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 10,
+                "input_chain_id": 14,
+                "output_chain_id": 6,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 11,
+                "input_chain_id": 14,
+                "output_chain_id": 4,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 12,
+                "input_chain_id": 14,
+                "output_chain_id": 5,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 13,
+                "input_chain_id": 2,
+                "output_chain_id": 9,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 14,
+                "input_chain_id": 2,
+                "output_chain_id": 11,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 15,
+                "input_chain_id": 2,
+                "output_chain_id": 10,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 16,
+                "input_chain_id": 6,
+                "output_chain_id": 11,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 17,
+                "input_chain_id": 6,
+                "output_chain_id": 10,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 18,
+                "input_chain_id": 6,
+                "output_chain_id": 8,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 19,
+                "input_chain_id": 12,
+                "output_chain_id": 8,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 20,
+                "input_chain_id": 12,
+                "output_chain_id": 9,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 21,
+                "input_chain_id": 12,
+                "output_chain_id": 11,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 22,
+                "input_chain_id": 18,
+                "output_chain_id": 10,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 23,
+                "input_chain_id": 18,
+                "output_chain_id": 8,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 24,
+                "input_chain_id": 18,
+                "output_chain_id": 9,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 25,
+                "input_chain_id": 7,
+                "output_chain_id": 15,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 26,
+                "input_chain_id": 7,
+                "output_chain_id": 17,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 27,
+                "input_chain_id": 7,
+                "output_chain_id": 16,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 28,
+                "input_chain_id": 13,
+                "output_chain_id": 17,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 29,
+                "input_chain_id": 13,
+                "output_chain_id": 16,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 30,
+                "input_chain_id": 13,
+                "output_chain_id": 14,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 31,
+                "input_chain_id": 19,
+                "output_chain_id": 14,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 32,
+                "input_chain_id": 19,
+                "output_chain_id": 15,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 33,
+                "input_chain_id": 19,
+                "output_chain_id": 17,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 34,
+                "input_chain_id": 23,
+                "output_chain_id": 16,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 35,
+                "input_chain_id": 23,
+                "output_chain_id": 14,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 36,
+                "input_chain_id": 23,
+                "output_chain_id": 15,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 37,
+                "input_chain_id": 11,
+                "output_chain_id": 19,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 38,
+                "input_chain_id": 11,
+                "output_chain_id": 21,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 39,
+                "input_chain_id": 11,
+                "output_chain_id": 20,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 40,
+                "input_chain_id": 16,
+                "output_chain_id": 21,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 41,
+                "input_chain_id": 16,
+                "output_chain_id": 20,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 42,
+                "input_chain_id": 16,
+                "output_chain_id": 18,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 43,
+                "input_chain_id": 22,
+                "output_chain_id": 18,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 44,
+                "input_chain_id": 22,
+                "output_chain_id": 19,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 45,
+                "input_chain_id": 22,
+                "output_chain_id": 21,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 46,
+                "input_chain_id": 24,
+                "output_chain_id": 20,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 47,
+                "input_chain_id": 24,
+                "output_chain_id": 18,
+                "weight": 0.3333333333333333
+            },
+            {
+                "link_id": 48,
+                "input_chain_id": 24,
+                "output_chain_id": 19,
+                "weight": 0.3333333333333333
+            }
+        ],
+        "controllers": [
+            {
+                "controller_id": 1,
+                "phases": [
+                    {
+                        "phase_id": 1,
+                        "green_links": [
+                            7,
+                            8,
+                            9
+                        ]
+                    },
+                    {
+                        "phase_id": 2,
+                        "green_links": [
+                            10,
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "phase_id": 3,
+                        "green_links": [
+                            4,
+                            5,
+                            6
+                        ]
+                    },
+                    {
+                        "phase_id": 4,
+                        "green_links": [
+                            1,
+                            2,
+                            3
+                        ]
+                    }
+                ]
+            },
+            {
+                "controller_id": 2,
+                "phases": [
+                    {
+                        "phase_id": 5,
+                        "green_links": [
+                            19,
+                            20,
+                            21
+                        ]
+                    },
+                    {
+                        "phase_id": 6,
+                        "green_links": [
+                            22,
+                            23,
+                            24
+                        ]
+                    },
+                    {
+                        "phase_id": 7,
+                        "green_links": [
+                            16,
+                            17,
+                            18
+                        ]
+                    },
+                    {
+                        "phase_id": 8,
+                        "green_links": [
+                            13,
+                            14,
+                            15
+                        ]
+                    }
+                ]
+            },
+            {
+                "controller_id": 3,
+                "phases": [
+                    {
+                        "phase_id": 9,
+                        "green_links": [
+                            31,
+                            32,
+                            33
+                        ]
+                    },
+                    {
+                        "phase_id": 10,
+                        "green_links": [
+                            34,
+                            35,
+                            36
+                        ]
+                    },
+                    {
+                        "phase_id": 11,
+                        "green_links": [
+                            28,
+                            29,
+                            30
+                        ]
+                    },
+                    {
+                        "phase_id": 12,
+                        "green_links": [
+                            25,
+                            26,
+                            27
+                        ]
+                    }
+                ]
+            },
+            {
+                "controller_id": 4,
+                "phases": [
+                    {
+                        "phase_id": 13,
+                        "green_links": [
+                            43,
+                            44,
+                            45
+                        ]
+                    },
+                    {
+                        "phase_id": 14,
+                        "green_links": [
+                            46,
+                            47,
+                            48
+                        ]
+                    },
+                    {
+                        "phase_id": 15,
+                        "green_links": [
+                            40,
+                            41,
+                            42
+                        ]
+                    },
+                    {
+                        "phase_id": 16,
+                        "green_links": [
+                            37,
+                            38,
+                            39
+                        ]
+                    }
+                ]
+            }
+        ],
+        "model_parameters": {
+            "rho_max": 0.13333,
+            "omega_safe_min": 13.69398948053527,
+            "omega_safe_max": 14.121389480534274,
+            "mean": 13.954992749683601,
+            "std": 0.5204884848624693,
+            "coeffs": {
+                "alpha": [
+                    0.0,
+                    0.043648918306965406,
+                    0.021194671679872816,
+                    -0.0,
+                    0.0004591326983565883
+                ],
+                "lambda": [
+                    0.0,
+                    30.80302976443196,
+                    -12.54652791497466,
+                    4.235096851335293,
+                    -4.315979883950932,
+                    5.916664824150079,
+                    -3.0150501718493534,
+                    0.6784853388652368,
+                    -0.2649156142307469,
+                    0.08318991607949226,
+                    -0.02445141253667184,
+                    0.010161293284197572,
+                    -0.002664559220850076,
+                    0.0012501295821564936,
+                    -0.00032294275501245864,
+                    0.0001550309927149279,
+                    -4.091323798275015e-05,
+                    1.9327692826349253e-05,
+                    -5.257875224882318e-06,
+                    2.417436663219445e-06,
+                    -6.778676164000396e-07,
+                    3.0301989942455613e-07,
+                    -8.736064212272674e-08,
+                    3.804463310599845e-08,
+                    -1.1243418632277381e-08,
+                    4.7829572082400475e-09
+                ],
+                "p": [
+                    0.0,
+                    0.31035990868338026,
+                    -0.0014369579971968364,
+                    -0.0006149543911028254
+                ],
+                "Q_max": null,
+                "rho_c": null
+            }
+        }
+    },
+    "traffic_flows": [
+        {
+            "chain_id": 1,
+            "density": 0.0011526195028548803,
+            "intensity": 0.025
+        },
+        {
+            "chain_id": 2,
+            "density": 0.0014602912717726138,
+            "intensity": 0.025
+        },
+        {
+            "chain_id": 3,
+            "density": 0.001519192748402759,
+            "intensity": 0.025
+        },
+        {
+            "chain_id": 12,
+            "density": 0.001267033784155596,
+            "intensity": 0.025
+        },
+        {
+            "chain_id": 13,
+            "density": 0.001216285377007883,
+            "intensity": 0.025
+        },
+        {
+            "chain_id": 22,
+            "density": 0.001231403342608549,
+            "intensity": 0.025
+        },
+        {
+            "chain_id": 23,
+            "density": 0.0013034750521932778,
+            "intensity": 0.025
+        },
+        {
+            "chain_id": 24,
+            "density": 0.0013326956705634718,
+            "intensity": 0.025
+        }
+    ],
+    "programs_bounds": [
+        {
+            "controller_id": 1,
+            "mode": "free",
+            "shift": 35,
+            "cycle_time": null,
+            "cycle_min": null,
+            "cycle_max": null,
+            "phases": [
+                {
+                    "phase_id": 1,
+                    "phase_min": 10,
+                    "phase_max": 100
+                },
+                {
+                    "phase_id": 2,
+                    "phase_min": 10,
+                    "phase_max": 100
+                },
+                {
+                    "phase_id": 3,
+                    "phase_min": 10,
+                    "phase_max": 100
+                },
+                {
+                    "phase_id": 4,
+                    "phase_min": 10,
+                    "phase_max": 100
+                }
+            ]
+        },
+        {
+            "controller_id": 2,
+            "mode": "strict_cycle",
+            "shift": 14,
+            "cycle_time": 50,
+            "cycle_min": null,
+            "cycle_max": null,
+            "phases": [
+                {
+                    "phase_id": 5,
+                    "phase_min": 10,
+                    "phase_max": 100
+                },
+                {
+                    "phase_id": 6,
+                    "phase_min": 10,
+                    "phase_max": 100
+                },
+                {
+                    "phase_id": 7,
+                    "phase_min": 10,
+                    "phase_max": 100
+                },
+                {
+                    "phase_id": 8,
+                    "phase_min": 10,
+                    "phase_max": 100
+                }
+            ]
+        },
+        {
+            "controller_id": 3,
+            "mode": "bounded_cycle",
+            "shift": 39,
+            "cycle_time": null,
+            "cycle_min": 45,
+            "cycle_max": 55,
+            "phases": [
+                {
+                    "phase_id": 9,
+                    "phase_min": 10,
+                    "phase_max": 100
+                },
+                {
+                    "phase_id": 10,
+                    "phase_min": 10,
+                    "phase_max": 100
+                },
+                {
+                    "phase_id": 11,
+                    "phase_min": 10,
+                    "phase_max": 100
+                },
+                {
+                    "phase_id": 12,
+                    "phase_min": 10,
+                    "phase_max": 100
+                }
+            ]
+        },
+        {
+            "controller_id": 4,
+            "mode": "free",
+            "shift": 7,
+            "cycle_time": null,
+            "cycle_min": null,
+            "cycle_max": null,
+            "phases": [
+                {
+                    "phase_id": 13,
+                    "phase_min": 10,
+                    "phase_max": 100
+                },
+                {
+                    "phase_id": 14,
+                    "phase_min": 10,
+                    "phase_max": 100
+                },
+                {
+                    "phase_id": 15,
+                    "phase_min": 10,
+                    "phase_max": 100
+                },
+                {
+                    "phase_id": 16,
+                    "phase_min": 10,
+                    "phase_max": 100
+                }
+            ]
+        }
+    ],
+    "init_plan": [
+        {
+            "controller_id": 1,
+            "shift": 35,
+            "phases": [
+                {
+                    "phase_id": 1,
+                    "phase_time": 11
+                },
+                {
+                    "phase_id": 2,
+                    "phase_time": 10
+                },
+                {
+                    "phase_id": 3,
+                    "phase_time": 11
+                },
+                {
+                    "phase_id": 4,
+                    "phase_time": 13
+                }
+            ]
+        },
+        {
+            "controller_id": 2,
+            "shift": 14,
+            "phases": [
+                {
+                    "phase_id": 5,
+                    "phase_time": 13
+                },
+                {
+                    "phase_id": 6,
+                    "phase_time": 11
+                },
+                {
+                    "phase_id": 7,
+                    "phase_time": 13
+                },
+                {
+                    "phase_id": 8,
+                    "phase_time": 13
+                }
+            ]
+        },
+        {
+            "controller_id": 3,
+            "shift": 39,
+            "phases": [
+                {
+                    "phase_id": 9,
+                    "phase_time": 17
+                },
+                {
+                    "phase_id": 10,
+                    "phase_time": 14
+                },
+                {
+                    "phase_id": 11,
+                    "phase_time": 10
+                },
+                {
+                    "phase_id": 12,
+                    "phase_time": 15
+                }
+            ]
+        },
+        {
+            "controller_id": 4,
+            "shift": 7,
+            "phases": [
+                {
+                    "phase_id": 13,
+                    "phase_time": 17
+                },
+                {
+                    "phase_id": 14,
+                    "phase_time": 10
+                },
+                {
+                    "phase_id": 15,
+                    "phase_time": 13
+                },
+                {
+                    "phase_id": 16,
+                    "phase_time": 10
+                }
+            ]
+        }
+    ],
+    "programs_states": [
+        {
+            "controller_id": 1,
+            "remain_phases": [
+                {
+                    "phase_id": 1,
+                    "phase_time": 1
+                },
+                {
+                    "phase_id": 2,
+                    "phase_time": 10
+                },
+                {
+                    "phase_id": 3,
+                    "phase_time": 11
+                },
+                {
+                    "phase_id": 4,
+                    "phase_time": 13
+                }
+            ]
+        },
+        {
+            "controller_id": 2,
+            "remain_phases": [
+                {
+                    "phase_id": 7,
+                    "phase_time": 1
+                },
+                {
+                    "phase_id": 8,
+                    "phase_time": 13
+                }
+            ]
+        },
+        {
+            "controller_id": 3,
+            "remain_phases": [
+                {
+                    "phase_id": 10,
+                    "phase_time": 14
+                },
+                {
+                    "phase_id": 11,
+                    "phase_time": 10
+                },
+                {
+                    "phase_id": 12,
+                    "phase_time": 15
+                }
+            ]
+        },
+        {
+            "controller_id": 4,
+            "remain_phases": [
+                {
+                    "phase_id": 16,
+                    "phase_time": 7
+                }
+            ]
+        }
+    ],
+    "init_traffic_state": {
+        "distribution": [
+            {
+                "chain_id": 23,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013690389847011342
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.001369038984701131
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013690389847011344
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.001369038984701131
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013690389847011342
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013690389847011329
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013690389847011313
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013690389847011348
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013690389847011311
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013690389847011801
+                    }
+                ]
+            },
+            {
+                "chain_id": 20,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.0035356451019235846
+                    },
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.012713960585649052
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 1.0166087431819039e-11
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 1.5618644724803065e-10
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 2.3996059612879226e-09
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 3.6865397374559204e-08
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 5.65920894670245e-07
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 8.617587113024812e-06
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00012468786912933757
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.001477051597699914
+                    }
+                ]
+            },
+            {
+                "chain_id": 17,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 1.5836355666769807e-30
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 6.302861658263471e-27
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 1.1289051886001727e-23
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 1.1983047941043423e-20
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 8.348239693874784e-18
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 3.988764904789593e-15
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 1.3238410672545037e-12
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 3.014255717763532e-10
+                    },
+                    {
+                        "omega": 14.121389480534054,
+                        "rho": 4.5081661181885576e-08
+                    },
+                    {
+                        "omega": 14.121389480534257,
+                        "rho": 4.004129289355966e-06
+                    }
+                ]
+            },
+            {
+                "chain_id": 14,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00045629317670750185
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00045629693733701147
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0004564462442838883
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0004597521852132111
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0005038643632128601
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0008590463723957391
+                    },
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.002462723232174086
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0056866811427637165
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0350288108504723
+                    }
+                ]
+            },
+            {
+                "chain_id": 11,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00017184431929351504
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00018271307946972516
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00025189781494238506
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0006106166987440145
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0019748649590377383
+                    },
+                    {
+                        "omega": 14.12138948053427,
+                        "rho": 0.004932070484553288
+                    },
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.0070104336821781455
+                    },
+                    {
+                        "omega": 14.121389480534264,
+                        "rho": 0.007246665854360154
+                    },
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.004435471825442832
+                    }
+                ]
+            },
+            {
+                "chain_id": 8,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00017132938359001006
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00017661155916420958
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00020480707082384334
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00033913632762230166
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.000954937164684028
+                    },
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.004106047282108482
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.005627328700249123
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.012400524982321639
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0018933924374137045
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0022646228751303527
+                    }
+                ]
+            },
+            {
+                "chain_id": 5,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00044796086469485984
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00010932847519993906
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0002901660203182808
+                    },
+                    {
+                        "omega": 14.121389480534264,
+                        "rho": 0.000971116906081882
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.004134520434152897
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.005434891684799615
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.012426939014250803
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0005108862651654057
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0005108862654163562
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0005108862895526082
+                    }
+                ]
+            },
+            {
+                "chain_id": 2,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.001210515892700759
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0012105158927007609
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0012105158927007602
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0012105158927007565
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0012105158927007565
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0012105158927007567
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0012105158927007567
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0012105158927007567
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0012105158927007585
+                    },
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.03260024680198532
+                    }
+                ]
+            },
+            {
+                "chain_id": 22,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00144275756565194
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0014427575656519424
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0014427575656519411
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00144275756565194
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0014427575656519444
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0014427575656519418
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.001442757565651942
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0014427575656519446
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0014427575656519441
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.028781439101469325
+                    }
+                ]
+            },
+            {
+                "chain_id": 19,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.004076895157064575
+                    },
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.011115085332703162
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 6.258427626217249e-13
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 2.622039689425564e-11
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 7.341949986161627e-10
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 1.4442726787933438e-08
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 2.04045864703474e-07
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 2.0772727911484557e-06
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.017767126724361558
+                    }
+                ]
+            },
+            {
+                "chain_id": 16,
+                "vertices": [
+                    {
+                        "omega": 14.12138948053426,
+                        "rho": 0.0004562931767071546
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00045629693728826954
+                    },
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.00045644624123160506
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00045975207170369887
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0005038615849641912
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0008589995916650074
+                    },
+                    {
+                        "omega": 14.121389480534264,
+                        "rho": 0.002462175898596666
+                    },
+                    {
+                        "omega": 14.121389480534267,
+                        "rho": 0.005682306060407897
+                    },
+                    {
+                        "omega": 14.121389480534264,
+                        "rho": 0.012813714851260644
+                    }
+                ]
+            },
+            {
+                "chain_id": 13,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0010760105238973468
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0010760105238973503
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00107601052389735
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.001076010523897351
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0010760105238973516
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0010760105238973431
+                    },
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.0010760105238973544
+                    },
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.0010760105238973537
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0010760105238973641
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.039107362742965356
+                    }
+                ]
+            },
+            {
+                "chain_id": 10,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00017132938359000653
+                    },
+                    {
+                        "omega": 14.121389480534262,
+                        "rho": 0.00017661155916422457
+                    },
+                    {
+                        "omega": 14.121389480534237,
+                        "rho": 0.00020480707082380984
+                    },
+                    {
+                        "omega": 14.12138948053427,
+                        "rho": 0.0003391363276223205
+                    },
+                    {
+                        "omega": 14.121389480534186,
+                        "rho": 0.0009549371646842253
+                    },
+                    {
+                        "omega": 14.121389480534114,
+                        "rho": 0.004106047282108285
+                    },
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.005627328700249167
+                    },
+                    {
+                        "omega": 14.121389480534264,
+                        "rho": 0.012400524982321606
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0018933924374136834
+                    },
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.002264622875130199
+                    }
+                ]
+            },
+            {
+                "chain_id": 7,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534235,
+                        "rho": 0.0004269307522827072
+                    },
+                    {
+                        "omega": 14.121389480534232,
+                        "rho": 0.00014378446146314758
+                    },
+                    {
+                        "omega": 14.12138948053423,
+                        "rho": 0.0004923724729188012
+                    },
+                    {
+                        "omega": 14.121389480534232,
+                        "rho": 0.0017914490657714882
+                    },
+                    {
+                        "omega": 14.121389480534232,
+                        "rho": 0.004775800424505532
+                    },
+                    {
+                        "omega": 14.121389480534228,
+                        "rho": 0.006891789530552736
+                    },
+                    {
+                        "omega": 14.12138948053424,
+                        "rho": 0.007975537606800871
+                    },
+                    {
+                        "omega": 14.121389480534239,
+                        "rho": 0.0005109233321867238
+                    },
+                    {
+                        "omega": 14.121389480534233,
+                        "rho": 0.03266578228766324
+                    }
+                ]
+            },
+            {
+                "chain_id": 4,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.000447960864694863
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00010932847519992233
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0002901660203093164
+                    },
+                    {
+                        "omega": 14.12138948053427,
+                        "rho": 0.0009711169006614531
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00413451896911952
+                    },
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.005434680328739116
+                    },
+                    {
+                        "omega": 14.121389480534232,
+                        "rho": 0.012417961215977009
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 1.9464463569126103e-23
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 8.717299645572335e-21
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 3.0851726602786863e-18
+                    }
+                ]
+            },
+            {
+                "chain_id": 1,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0015328599270808896
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0015328599270808907
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0015328599270808927
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0015328599270808918
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0015328599270808903
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0015328599270808892
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0015328599270808929
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0015328599270808903
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0015328599270808922
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.012233899621091716
+                    }
+                ]
+            },
+            {
+                "chain_id": 24,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013415006134693064
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013415006134693064
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013415006134693118
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013415006134693103
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013415006134693116
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013415006134693066
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013415006134693097
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013415006134693108
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013415006134693068
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.01605852179518764
+                    }
+                ]
+            },
+            {
+                "chain_id": 21,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.0035356451019235846
+                    },
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.012713960585649052
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 1.0166087431761292e-11
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 1.5618644722067372e-10
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 2.399605950792238e-09
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 3.6865397191385576e-08
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 5.659208295307399e-07
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 8.617568577707271e-06
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00012468421903293102
+                    },
+                    {
+                        "omega": 14.121389480534273,
+                        "rho": 0.0014760728071344272
+                    }
+                ]
+            },
+            {
+                "chain_id": 18,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 3.205008433386735e-13
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 2.5183749823848803e-11
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 9.987740136124253e-10
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 2.5914053572648995e-08
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 4.7203302609577533e-07
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 6.16460917340986e-06
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 5.777080952983654e-05
+                    },
+                    {
+                        "omega": 14.12138948053427,
+                        "rho": 0.0003809384800370708
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.01731077057326886
+                    }
+                ]
+            },
+            {
+                "chain_id": 15,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0004562931359588055
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00045629313606397956
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0004562931439105878
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0004562938348704178
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00045634424496877765
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0004600346871306685
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0006372072916196597
+                    },
+                    {
+                        "omega": 14.12138948053427,
+                        "rho": 0.005392332821952325
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00481432505946266
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.012249726521889315
+                    }
+                ]
+            },
+            {
+                "chain_id": 12,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013208615155051438
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013208615155051438
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013208615155051407
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013208615155051392
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013208615155051431
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013208615155051416
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013208615155051399
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013208615155051423
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0013208615155051433
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.022398152536740504
+                    }
+                ]
+            },
+            {
+                "chain_id": 9,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 8.159582685972253e-13
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 9.116148726261114e-11
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 4.467739555076715e-09
+                    },
+                    {
+                        "omega": 14.121389480534209,
+                        "rho": 1.2561173313750586e-07
+                    },
+                    {
+                        "omega": 14.121389480534248,
+                        "rho": 2.220844958702784e-06
+                    },
+                    {
+                        "omega": 14.12138948053424,
+                        "rho": 2.5391799739327782e-05
+                    },
+                    {
+                        "omega": 14.121389480534255,
+                        "rho": 0.00018503322986645923
+                    },
+                    {
+                        "omega": 14.121389480534262,
+                        "rho": 0.0008055830700136714
+                    },
+                    {
+                        "omega": 14.12138948053426,
+                        "rho": 0.001784261759810171
+                    }
+                ]
+            },
+            {
+                "chain_id": 6,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 3.241160824396656e-12
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 3.170286304017182e-10
+                    },
+                    {
+                        "omega": 14.121389480534251,
+                        "rho": 1.3336604036803822e-08
+                    },
+                    {
+                        "omega": 14.121389480534239,
+                        "rho": 3.1345335351855074e-07
+                    },
+                    {
+                        "omega": 14.121389480534262,
+                        "rho": 4.464333391041946e-06
+                    },
+                    {
+                        "omega": 14.121389480534253,
+                        "rho": 3.890934923136307e-05
+                    },
+                    {
+                        "omega": 14.12138948053426,
+                        "rho": 0.00019765559544254518
+                    },
+                    {
+                        "omega": 14.121389480534265,
+                        "rho": 0.000510923332186711
+                    },
+                    {
+                        "omega": 14.121389480534258,
+                        "rho": 0.0005113559601777177
+                    }
+                ]
+            },
+            {
+                "chain_id": 3,
+                "vertices": [
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0012984227027597812
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0012984227027597872
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0012984227027597805
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0012984227027597818
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0012984227027597788
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.00129842270275978
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0012984227027597784
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0012984227027597849
+                    },
+                    {
+                        "omega": 14.121389480534274,
+                        "rho": 0.0012984227027597823
+                    },
+                    {
+                        "omega": 14.12138948053427,
+                        "rho": 0.022017712965191304
+                    }
+                ]
+            }
+        ]
+    }
+}

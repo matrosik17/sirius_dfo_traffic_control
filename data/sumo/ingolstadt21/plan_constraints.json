@@ -1,0 +1,479 @@
+[
+    {
+        "controller_id": "1863241632",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 1,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 2,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 3,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "2330725114",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 4,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 5,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 6,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "243351999",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 7,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 8,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 9,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "243641585",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 10,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 11,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 12,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "243749571",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 13,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 14,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 15,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 16,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "30503246",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 17,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 18,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 19,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "30624898",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 20,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 21,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 22,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "32564122",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 23,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 24,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "89127267",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 25,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 26,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 27,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "89173763",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 28,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 29,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 30,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 31,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "89173808",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 32,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 33,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 34,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "cluster_1427494838_273472399",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 35,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 36,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 37,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 38,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "cluster_1757124350_1757124352",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 39,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 40,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 41,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "cluster_1863241547_1863241548_1976170214",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 42,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 43,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 44,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 45,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "cluster_306484187_cluster_1200363791_1200363826_1200363834_1200363898_1200363927_1200363938_1200363947_1200364074_1200364103_1507566554_1507566556_255882157_306484190",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 46,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 47,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 48,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "cluster_1041665625_cluster_1387938793_1387938796_cluster_1757124361_1757124367_32564126",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 49,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 50,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 51,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "cluster_274083968_cluster_1200364014_1200364088",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 52,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 53,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 54,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "cluster_2302665030_2337351369",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 55,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 56,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 57,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "cluster_371462086_469470779_98101387_cluster_371462067_371775459_371775468",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 58,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 59,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 60,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "cluster_1833965782_1833965806_371781950_cluster_32564118_371775504",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 61,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 62,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 63,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "cluster_1840209209_268417350",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 64,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 65,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 66,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    }
+]

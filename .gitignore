@@ -1,0 +1,16 @@
+venv
+__pycache__
+
+tmp
+!tmp/*/*/.gitkeep
+
+data/*/*/output/*
+!data/*/*/output/.gitkeep
+
+data/*/tmp/*
+!data/*/tmp/.gitkeep
+
+data/*/*/tmp/*
+!data/*/*/tmp/.gitkeep
+
+.ipynb_checkpoints

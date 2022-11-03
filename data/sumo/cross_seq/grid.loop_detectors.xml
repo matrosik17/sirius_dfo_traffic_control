@@ -1,0 +1,25 @@
+<additional>
+    <!-- Горизонталь -->
+    <inductionLoop id="A1B1_0_start_loop" lane="A1B1_0" pos="10" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="A1B1_0_mid_loop" lane="A1B1_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="A1B1_0_end_loop" lane="A1B1_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="B1C1_0_start_loop" lane="B1C1_0" pos="10" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B1C1_0_mid_loop" lane="B1C1_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B1C1_0_end_loop" lane="B1C1_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="C1D1_0_start_loop" lane="C1D1_0" pos="10" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C1D1_0_mid_loop" lane="C1D1_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C1D1_0_end_loop" lane="C1D1_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <!-- Вертикаль 1  -->
+    <inductionLoop id="B1B2_0_start_loop" lane="B1B2_0" pos="10" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B1B2_0_mid_loop" lane="B1B2_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B1B2_0_end_loop" lane="B1B2_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <!-- Вертикаль 2 -->
+    <inductionLoop id="C1C2_0_start_loop" lane="C1C2_0" pos="10" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C1C2_0_mid_loop" lane="C1C2_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C1C2_0_end_loop" lane="C1C2_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+</additional>

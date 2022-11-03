@@ -1,0 +1,4 @@
+<additional>
+    <laneData id="lane_detectors" freq="30" file="output/lanes.xml" excludeEmpty="true"/>
+    <edgeData id="edge_detectors" freq="30" file="output/edges.xml" excludeEmpty="true"/>
+</additional>

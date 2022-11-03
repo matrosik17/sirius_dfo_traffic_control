@@ -1,0 +1,102 @@
+<additional>
+    <!-- Горизонталь 1  -->
+    <inductionLoop id="B1A1_0_start_loop" lane="B1A1_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B1A1_0_mid_loop" lane="B1A1_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B1A1_0_end_loop" lane="B1A1_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="A1B1_0_start_loop" lane="A1B1_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="A1B1_0_mid_loop" lane="A1B1_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="A1B1_0_end_loop" lane="A1B1_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="C1B1_0_start_loop" lane="C1B1_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C1B1_0_mid_loop" lane="C1B1_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C1B1_0_end_loop" lane="C1B1_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="B1C1_0_start_loop" lane="B1C1_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B1C1_0_mid_loop" lane="B1C1_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B1C1_0_end_loop" lane="B1C1_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="C1D1_0_start_loop" lane="C1D1_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C1D1_0_mid_loop" lane="C1D1_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C1D1_0_end_loop" lane="C1D1_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="D1C1_0_start_loop" lane="D1C1_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="D1C1_0_mid_loop" lane="D1C1_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="D1C1_0_end_loop" lane="D1C1_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <!-- Горизонталь 2 -->
+    <inductionLoop id="B2A2_0_start_loop" lane="B2A2_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B2A2_0_mid_loop" lane="B2A2_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B2A2_0_end_loop" lane="B2A2_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="A2B2_0_start_loop" lane="A2B2_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="A2B2_0_mid_loop" lane="A2B2_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="A2B2_0_end_loop" lane="A2B2_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="C2B2_0_start_loop" lane="C2B2_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C2B2_0_mid_loop" lane="C2B2_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C2B2_0_end_loop" lane="C2B2_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="B2C2_0_start_loop" lane="B2C2_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B2C2_0_mid_loop" lane="B2C2_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B2C2_0_end_loop" lane="B2C2_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="C2D2_0_start_loop" lane="C2D2_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C2D2_0_mid_loop" lane="C2D2_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C2D2_0_end_loop" lane="C2D2_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="D2C2_0_start_loop" lane="D2C2_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="D2C2_0_mid_loop" lane="D2C2_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="D2C2_0_end_loop" lane="D2C2_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <!-- Вертикаль 1  -->
+    <inductionLoop id="B3B2_0_start_loop" lane="B3B2_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B3B2_0_mid_loop" lane="B3B2_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B3B2_0_end_loop" lane="B3B2_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="B2B3_0_start_loop" lane="B2B3_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B2B3_0_mid_loop" lane="B2B3_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B2B3_0_end_loop" lane="B2B3_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="B2B1_0_start_loop" lane="B2B1_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B2B1_0_mid_loop" lane="B2B1_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B2B1_0_end_loop" lane="B2B1_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="B1B2_0_start_loop" lane="B1B2_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B1B2_0_mid_loop" lane="B1B2_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B1B2_0_end_loop" lane="B1B2_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="B1B0_0_start_loop" lane="B1B0_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B1B0_0_mid_loop" lane="B1B0_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B1B0_0_end_loop" lane="B1B0_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="B0B1_0_start_loop" lane="B0B1_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B0B1_0_mid_loop" lane="B0B1_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B0B1_0_end_loop" lane="B0B1_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <!-- Вертикаль 2 -->
+    <inductionLoop id="C3C2_0_start_loop" lane="C3C2_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C3C2_0_mid_loop" lane="C3C2_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C3C2_0_end_loop" lane="C3C2_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="C2C3_0_start_loop" lane="C2C3_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C2C3_0_mid_loop" lane="C2C3_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C2C3_0_end_loop" lane="C2C3_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="C2C1_0_start_loop" lane="C2C1_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C2C1_0_mid_loop" lane="C2C1_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C2C1_0_end_loop" lane="C2C1_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="C1C2_0_start_loop" lane="C1C2_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C1C2_0_mid_loop" lane="C1C2_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C1C2_0_end_loop" lane="C1C2_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="C1C0_0_start_loop" lane="C1C0_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C1C0_0_mid_loop" lane="C1C0_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C1C0_0_end_loop" lane="C1C0_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="C0C1_0_start_loop" lane="C0C1_0" pos="20" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C0C1_0_mid_loop" lane="C0C1_0" pos="100" freq="60" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C0C1_0_end_loop" lane="C0C1_0" pos="-10" freq="60" file="output/loop_detectors.xml"/>
+
+</additional>

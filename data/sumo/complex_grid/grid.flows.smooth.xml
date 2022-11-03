@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2021-09-19 15:00:34.373312 by $Id$ UNKNOWN
+  options: -n grid.net.xml <doubleminus>flows 6 <doubleminus>jtrrouter
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="car" accel="2.6" decel="4.5" sigma="0.5" length="5" maxSpeed="55"/>
+
+    <!-- Базовый поток -->
+    <flow id="A1B1_base_flow" begin="0" end="3600" vehsPerHour="100" from="A1B1" departSpeed="max"/>
+    <flow id="A2B2_base_flow" begin="0" end="3600" vehsPerHour="100" from="A2B2" departSpeed="max"/>
+    <flow id="B3B2_base_flow" begin="0" end="3600" vehsPerHour="100" from="B3B2" departSpeed="max"/>
+    <flow id="C3C2_base_flow" begin="0" end="3600" vehsPerHour="100" from="C3C2" departSpeed="max"/>
+    <flow id="D2C2_base_flow" begin="0" end="3600" vehsPerHour="100" from="D2C2" departSpeed="max"/>
+    <flow id="D1C1_base_flow" begin="0" end="3600" vehsPerHour="100" from="D1C1" departSpeed="max"/>
+    <flow id="C0C1_base_flow" begin="0" end="3600" vehsPerHour="100" from="C0C1" departSpeed="max"/>
+    <flow id="B0B1_base_flow" begin="0" end="3600" vehsPerHour="100" from="B0B1" departSpeed="max"/>
+
+    <!-- Возмущения -->
+    <!-- Запад -->
+    <flow id="A1B1_additional_flow_1" begin="500" end="1400" vehsPerHour="200" from="A1B1" departSpeed="max"/>
+    <flow id="A2B2_additional_flow_1" begin="500" end="1400" vehsPerHour="200" from="A2B2" departSpeed="max"/>
+
+    <flow id="A1B1_additional_flow_2" begin="550" end="1350" vehsPerHour="200" from="A1B1" departSpeed="max"/>
+    <flow id="A2B2_additional_flow_2" begin="550" end="1350" vehsPerHour="200" from="A2B2" departSpeed="max"/>
+
+    <flow id="A1B1_additional_flow_3" begin="600" end="1300" vehsPerHour="200" from="A1B1" departSpeed="max"/>
+    <flow id="A2B2_additional_flow_3" begin="600" end="1300" vehsPerHour="200" from="A2B2" departSpeed="max"/>
+
+    <flow id="A1B1_additional_flow_4" begin="650" end="1250" vehsPerHour="200" from="A1B1" departSpeed="max"/>
+    <flow id="A2B2_additional_flow_4" begin="650" end="1250" vehsPerHour="200" from="A2B2" departSpeed="max"/>
+
+    <flow id="A1B1_additional_flow_5" begin="700" end="1200" vehsPerHour="200" from="A1B1" departSpeed="max"/>
+    <flow id="A2B2_additional_flow_5" begin="700" end="1200" vehsPerHour="200" from="A2B2" departSpeed="max"/>
+
+    <!-- Север -->
+    <flow id="B3B2_additional_flow_1" begin="1300" end="1900" vehsPerHour="200" from="B3B2" departSpeed="max"/>
+    <flow id="C3C2_additional_flow_1" begin="1300" end="1900" vehsPerHour="200" from="C3C2" departSpeed="max"/>
+
+    <flow id="B3B2_additional_flow_2" begin="1350" end="1850" vehsPerHour="200" from="B3B2" departSpeed="max"/>
+    <flow id="C3C2_additional_flow_2" begin="1350" end="1850" vehsPerHour="200" from="C3C2" departSpeed="max"/>
+
+    <flow id="B3B2_additional_flow_3" begin="1400" end="1800" vehsPerHour="200" from="B3B2" departSpeed="max"/>
+    <flow id="C3C2_additional_flow_3" begin="1400" end="1800" vehsPerHour="200" from="C3C2" departSpeed="max"/>
+
+    <flow id="B3B2_additional_flow_4" begin="1450" end="1750" vehsPerHour="200" from="B3B2" departSpeed="max"/>
+    <flow id="C3C2_additional_flow_4" begin="1450" end="1750" vehsPerHour="200" from="C3C2" departSpeed="max"/>
+
+    <flow id="B3B2_additional_flow_5" begin="1500" end="1700" vehsPerHour="200" from="B3B2" departSpeed="max"/>
+    <flow id="C3C2_additional_flow_5" begin="1500" end="1700" vehsPerHour="200" from="C3C2" departSpeed="max"/>
+
+    <!-- Восток -->
+    <flow id="D1C1_additional_flow_1" begin="1700" end="2600" vehsPerHour="250" from="D1C1" departSpeed="max"/>
+    <flow id="D2C2_additional_flow_1" begin="1700" end="2600" vehsPerHour="250" from="D2C2" departSpeed="max"/>
+
+    <flow id="D1C1_additional_flow_2" begin="1800" end="2500" vehsPerHour="250" from="D1C1" departSpeed="max"/>
+    <flow id="D2C2_additional_flow_2" begin="1800" end="2500" vehsPerHour="250" from="D2C2" departSpeed="max"/>
+
+    <flow id="D1C1_additional_flow_3" begin="1900" end="2400" vehsPerHour="250" from="D1C1" departSpeed="max"/>
+    <flow id="D2C2_additional_flow_3" begin="1900" end="2400" vehsPerHour="250" from="D2C2" departSpeed="max"/>
+
+    <flow id="D1C1_additional_flow_4" begin="2000" end="2300" vehsPerHour="250" from="D1C1" departSpeed="max"/>
+    <flow id="D2C2_additional_flow_4" begin="2000" end="2300" vehsPerHour="250" from="D2C2" departSpeed="max"/>
+
+    <!-- Юг -->
+    <flow id="C0C1_additional_flow_1" begin="2700" end="3600" vehsPerHour="100" from="C0C1" departSpeed="max"/>
+    <flow id="B0B1_additional_flow_1" begin="2700" end="3600" vehsPerHour="100" from="B0B1" departSpeed="max"/>
+
+    <flow id="C0C1_additional_flow_2" begin="2730" end="3600" vehsPerHour="100" from="C0C1" departSpeed="max"/>
+    <flow id="B0B1_additional_flow_2" begin="2730" end="3600" vehsPerHour="100" from="B0B1" departSpeed="max"/>
+
+    <flow id="C0C1_additional_flow_3" begin="2760" end="3600" vehsPerHour="100" from="C0C1" departSpeed="max"/>
+    <flow id="B0B1_additional_flow_3" begin="2760" end="3600" vehsPerHour="100" from="B0B1" departSpeed="max"/>
+
+    <flow id="C0C1_additional_flow_4" begin="2790" end="3600" vehsPerHour="100" from="C0C1" departSpeed="max"/>
+    <flow id="B0B1_additional_flow_4" begin="2790" end="3600" vehsPerHour="100" from="B0B1" departSpeed="max"/>
+
+    <flow id="C0C1_additional_flow_5" begin="2820" end="3600" vehsPerHour="100" from="C0C1" departSpeed="max"/>
+    <flow id="B0B1_additional_flow_5" begin="2820" end="3600" vehsPerHour="100" from="B0B1" departSpeed="max"/>
+
+    <flow id="C0C1_additional_flow_6" begin="2850" end="3600" vehsPerHour="100" from="C0C1" departSpeed="max"/>
+    <flow id="B0B1_additional_flow_6" begin="2850" end="3600" vehsPerHour="100" from="B0B1" departSpeed="max"/>
+
+    <flow id="C0C1_additional_flow_7" begin="2880" end="3600" vehsPerHour="100" from="C0C1" departSpeed="max"/>
+    <flow id="B0B1_additional_flow_7" begin="2880" end="3600" vehsPerHour="100" from="B0B1" departSpeed="max"/>
+
+    <flow id="C0C1_additional_flow_8" begin="2910" end="3600" vehsPerHour="100" from="C0C1" departSpeed="max"/>
+    <flow id="B0B1_additional_flow_8" begin="2910" end="3600" vehsPerHour="100" from="B0B1" departSpeed="max"/>
+
+    <flow id="C0C1_additional_flow_9" begin="2940" end="3600" vehsPerHour="100" from="C0C1" departSpeed="max"/>
+    <flow id="B0B1_additional_flow_9" begin="2940" end="3600" vehsPerHour="100" from="B0B1" departSpeed="max"/>
+
+    <flow id="C0C1_additional_flow_10" begin="2970" end="3600" vehsPerHour="100" from="C0C1" departSpeed="max"/>
+    <flow id="B0B1_additional_flow_10" begin="2970" end="3600" vehsPerHour="100" from="B0B1" departSpeed="max"/>
+</routes>

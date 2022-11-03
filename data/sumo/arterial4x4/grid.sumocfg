@@ -1,0 +1,19 @@
+<configuration>
+  <input>
+    <net-file value="grid.net.xml"/>
+    <route-files value="grid.rou.xml"/>
+    <additional-files value="grid.loop_detectors.xml"/>
+  </input>
+  <time>
+    <begin value="0"/>
+    <end value="3600"/>
+  </time>
+  <processing>
+    <scale value="1.0"/>
+  </processing>
+  <output>
+    <statistic-output value="output/stats.xml"/>
+    <tripinfo-output value="output/tripinfo.xml"/>
+    <tripinfo-output.write-unfinished value="true"/>
+  </output>
+</configuration>

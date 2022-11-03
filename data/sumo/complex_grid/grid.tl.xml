@@ -1,0 +1,42 @@
+<additional>
+    <tlLogic id="B1" type="static" programID="1" offset="0">
+        <phase duration="18" state="GGGrrrrrrrrr" name="1"/>
+        <phase duration="3"  state="yyyrrrrrrrrr" name="1_int"/>
+        <phase duration="20" state="rrrGGGrrrrrr" name="2"/>
+        <phase duration="3"  state="rrryyyrrrrrr" name="2_int"/>
+        <phase duration="20" state="rrrrrrGGGrrr" name="3"/>
+        <phase duration="3"  state="rrrrrryyyrrr" name="3_int"/>
+        <phase duration="20" state="rrrrrrrrrGGG" name="4"/>
+        <phase duration="3"  state="rrrrrrrrryyy" name="4_int"/>
+    </tlLogic>
+    <tlLogic id="B2" type="static" programID="1" offset="0">
+        <phase duration="18" state="GGGrrrrrrrrr" name="1"/>
+        <phase duration="3"  state="yyyrrrrrrrrr" name="1_int"/>
+        <phase duration="20" state="rrrGGGrrrrrr" name="2"/>
+        <phase duration="3"  state="rrryyyrrrrrr" name="2_int"/>
+        <phase duration="20" state="rrrrrrGGGrrr" name="3"/>
+        <phase duration="3"  state="rrrrrryyyrrr" name="3_int"/>
+        <phase duration="20" state="rrrrrrrrrGGG" name="4"/>
+        <phase duration="3"  state="rrrrrrrrryyy" name="4_int"/>
+    </tlLogic>
+    <tlLogic id="C1" type="static" programID="1" offset="0">
+        <phase duration="18" state="GGGrrrrrrrrr" name="1"/>
+        <phase duration="3"  state="yyyrrrrrrrrr" name="1_int"/>
+        <phase duration="20" state="rrrGGGrrrrrr" name="2"/>
+        <phase duration="3"  state="rrryyyrrrrrr" name="2_int"/>
+        <phase duration="20" state="rrrrrrGGGrrr" name="3"/>
+        <phase duration="3"  state="rrrrrryyyrrr" name="3_int"/>
+        <phase duration="20" state="rrrrrrrrrGGG" name="4"/>
+        <phase duration="3"  state="rrrrrrrrryyy" name="4_int"/>
+    </tlLogic>
+    <tlLogic id="C2" type="static" programID="1" offset="0">
+        <phase duration="18" state="GGGrrrrrrrrr" name="1"/>
+        <phase duration="3"  state="yyyrrrrrrrrr" name="1_int"/>
+        <phase duration="20" state="rrrGGGrrrrrr" name="2"/>
+        <phase duration="3"  state="rrryyyrrrrrr" name="2_int"/>
+        <phase duration="20" state="rrrrrrGGGrrr" name="3"/>
+        <phase duration="3"  state="rrrrrryyyrrr" name="3_int"/>
+        <phase duration="20" state="rrrrrrrrrGGG" name="4"/>
+        <phase duration="3"  state="rrrrrrrrryyy" name="4_int"/>
+    </tlLogic>
+</additional>

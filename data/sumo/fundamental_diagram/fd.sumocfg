@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+    <input>
+        <net-file value="fd.net.xml"/>
+        <route-files value="fd.routes.xml"/>
+        <additional-files value="fd.add.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="14000"/>
+    </time>
+    <time-to-teleport value="-1"/>
+</configuration>

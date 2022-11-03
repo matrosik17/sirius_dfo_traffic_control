@@ -1,0 +1,24 @@
+[
+    {
+        "controller_id": "cluster_274083968_cluster_1200364014_1200364088",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 1,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 2,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 3,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    }
+]

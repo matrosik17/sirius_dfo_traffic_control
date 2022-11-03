@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2021-09-19 15:00:34.373312 by $Id$ UNKNOWN
+  options: -n grid.net.xml <doubleminus>flows 6 <doubleminus>jtrrouter
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="car" accel="2.6" decel="4.5" sigma="0.5" length="5" maxSpeed="55"/>
+
+    <!-- Базовый поток -->
+    <flow id="A1B1_base_flow" begin="0" end="3600" vehsPerHour="300" from="A1B1" to="B1C1" departSpeed="max"/>
+    <flow id="A2B2_base_flow" begin="0" end="3600" vehsPerHour="300" from="A2B2" to="B1C1" departSpeed="max"/>
+
+    <!-- Возмущения -->
+    <flow id="A1B1_additional_1_flow" begin="600" end="900" vehsPerHour="300" from="A1B1" to="B1C1" departSpeed="max"/>
+    <flow id="A1B1_additional_2_flow" begin="900" end="1200" vehsPerHour="800" from="A1B1" to="B1C1" departSpeed="max"/>
+    <flow id="A1B1_additional_3_flow" begin="1200" end="3600" vehsPerHour="600" from="A1B1" to="B1C1" departSpeed="max"/>
+</routes>

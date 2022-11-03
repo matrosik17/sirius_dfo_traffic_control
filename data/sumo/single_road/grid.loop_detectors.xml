@@ -1,0 +1,13 @@
+<additional>
+    <inductionLoop id="A1B1_0_start_loop" lane="A1B1_0" pos="20" freq="30" file="output/loop_detectors.xml"/>
+    <inductionLoop id="A1B1_0_mid_loop" lane="A1B1_0" pos="100" freq="30" file="output/loop_detectors.xml"/>
+    <inductionLoop id="A1B1_0_end_loop" lane="A1B1_0" pos="-10" freq="30" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="B1C1_0_start_loop" lane="B1C1_0" pos="20" freq="30" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B1C1_0_mid_loop" lane="B1C1_0" pos="100" freq="30" file="output/loop_detectors.xml"/>
+    <inductionLoop id="B1C1_0_end_loop" lane="B1C1_0" pos="-10" freq="30" file="output/loop_detectors.xml"/>
+
+    <inductionLoop id="C1D1_0_start_loop" lane="C1D1_0" pos="20" freq="30" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C1D1_0_mid_loop" lane="C1D1_0" pos="100" freq="30" file="output/loop_detectors.xml"/>
+    <inductionLoop id="C1D1_0_end_loop" lane="C1D1_0" pos="-10" freq="30" file="output/loop_detectors.xml"/>
+</additional>

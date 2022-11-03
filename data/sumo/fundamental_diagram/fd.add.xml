@@ -1,0 +1,43 @@
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- 1 edge overlap (5/1to6/1 is needed to make the rerouter work -->
+    <route id="circle" edges="5/1to6/1 6/1to7/1 7/1to8/1 8/1to9/1 9/1to10/1 10/1to1/1 1/1to2/1 2/1to3/1 3/1to4/1 4/1to5/1 5/1to6/1"/>
+    <rerouter id="rerouter5" edges="5/1to6/1">
+        <interval begin="0" end="86400">
+            <routeProbReroute id="circle"/>
+        </interval>
+    </rerouter>
+
+    <edgeData id="60" freq="30" file="output/edges.xml" excludeEmpty="true"/>
+    <laneData id="60" freq="30" file="output/lanes.xml" excludeEmpty="true"/>
+
+    <inductionLoop id="6/1to7/1_loop" lane="6/1to7/1_0" pos="100" freq="30" file="output/loop_detectors.xml"/>
+    <inductionLoop id="7/1to8/1_loop" lane="7/1to8/1_0" pos="100" freq="30" file="output/loop_detectors.xml"/>
+
+    <variableSpeedSign id="disturbance" lanes="10/1to1/1_0">
+        <step time="2000" speed="1"/>
+        <step time="2100"/>
+        <step time="3000" speed="1"/>
+        <step time="3100"/>
+        <step time="4000" speed="1"/>
+        <step time="4100"/>
+        <step time="5000" speed="1"/>
+        <step time="5200"/>
+        <step time="6000" speed="1"/>
+        <step time="6200"/>
+        <step time="7000" speed="1"/>
+        <step time="7200"/>
+        <step time="8000" speed="1"/>
+        <step time="8300"/>
+        <step time="9000" speed="1"/>
+        <step time="9300"/>
+        <step time="10000" speed="1"/>
+        <step time="10300"/>
+        <step time="11000" speed="1"/>
+        <step time="11400"/>
+        <step time="12000" speed="1"/>
+        <step time="12400"/>
+        <step time="13000" speed="1"/>
+        <step time="13400"/>
+    </variableSpeedSign>
+</additional>

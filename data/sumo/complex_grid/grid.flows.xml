@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2021-09-19 15:00:34.373312 by $Id$ UNKNOWN
+  options: -n grid.net.xml <doubleminus>flows 6 <doubleminus>jtrrouter
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="car" accel="2.6" decel="4.5" sigma="0.5" length="5" maxSpeed="55"/>
+
+    <!-- Базовый поток -->
+    <flow id="A1B1_base_flow" begin="0" end="3600" vehsPerHour="100" from="A1B1" departSpeed="max"/>
+    <flow id="A2B2_base_flow" begin="0" end="3600" vehsPerHour="100" from="A2B2" departSpeed="max"/>
+    <flow id="B3B2_base_flow" begin="0" end="3600" vehsPerHour="100" from="B3B2" departSpeed="max"/>
+    <flow id="C3C2_base_flow" begin="0" end="3600" vehsPerHour="100" from="C3C2" departSpeed="max"/>
+    <flow id="D2C2_base_flow" begin="0" end="3600" vehsPerHour="100" from="D2C2" departSpeed="max"/>
+    <flow id="D1C1_base_flow" begin="0" end="3600" vehsPerHour="100" from="D1C1" departSpeed="max"/>
+    <flow id="C0C1_base_flow" begin="0" end="3600" vehsPerHour="100" from="C0C1" departSpeed="max"/>
+    <flow id="B0B1_base_flow" begin="0" end="3600" vehsPerHour="100" from="B0B1" departSpeed="max"/>
+
+    <!-- Возмущения -->
+    <!-- Запад -->
+    <flow id="A1B1_additional_flow" begin="600" end="1200" vehsPerHour="1000" from="A1B1" departSpeed="max"/>
+    <flow id="A2B2_additional_flow" begin="600" end="1200" vehsPerHour="1000" from="A2B2" departSpeed="max"/>
+    <!-- Север -->
+    <flow id="B3B2_additional_flow" begin="1300" end="1900" vehsPerHour="1000" from="B3B2" departSpeed="max"/>
+    <flow id="C3C2_additional_flow" begin="1300" end="1900" vehsPerHour="1000" from="C3C2" departSpeed="max"/>
+    <!-- Восток -->
+    <flow id="D2C2_additional_flow" begin="2000" end="2600" vehsPerHour="1000" from="D2C2" departSpeed="max"/>
+    <flow id="D1C1_additional_flow" begin="2000" end="2600" vehsPerHour="1000" from="D1C1" departSpeed="max"/>
+    <!-- Юг -->
+    <flow id="C0C1_additional_flow" begin="2700" end="3600" vehsPerHour="1000" from="C0C1" departSpeed="max"/>
+    <flow id="B0B1_additional_flow" begin="2700" end="3600" vehsPerHour="1000" from="B0B1" departSpeed="max"/>
+</routes>

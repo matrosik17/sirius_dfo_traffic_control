@@ -1,0 +1,219 @@
+<additional>
+    <!--Edge: -104010328-->
+    <inductionLoop id="-104010328_1_1_loop" lane="-104010328_1" pos="32.473333333333336" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-104010328_1_2_loop" lane="-104010328_1" pos="64.94666666666667" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: -164051413-->    <!--Edge: -173169611#0-->
+    <inductionLoop id="-173169611#0_1_start_loop" lane="-173169611#0_1" pos="7.0" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-173169611#0_1_1_loop" lane="-173169611#0_1" pos="23.333333333333332" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-173169611#0_1_2_loop" lane="-173169611#0_1" pos="46.666666666666664" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: -201089423#1-->
+    <inductionLoop id="-201089423#1_1_1_loop" lane="-201089423#1_1" pos="20.093333333333334" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-201089423#1_1_2_loop" lane="-201089423#1_1" pos="40.18666666666667" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-201089423#1_2_1_loop" lane="-201089423#1_2" pos="20.093333333333334" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-201089423#1_2_2_loop" lane="-201089423#1_2" pos="40.18666666666667" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: -201089423#2-->    <!--Edge: -22716549#6-->
+    <inductionLoop id="-22716549#6_1_start_loop" lane="-22716549#6_1" pos="10.0" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-22716549#6_1_1_loop" lane="-22716549#6_1" pos="89.38" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-22716549#6_1_2_loop" lane="-22716549#6_1" pos="178.76" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: -24608844-->
+    <inductionLoop id="-24608844_1_1_loop" lane="-24608844_1" pos="55.833333333333336" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-24608844_1_2_loop" lane="-24608844_1" pos="111.66666666666667" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: -24608846#1-->
+    <inductionLoop id="-24608846#1_1_1_loop" lane="-24608846#1_1" pos="20.066666666666666" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-24608846#1_1_2_loop" lane="-24608846#1_1" pos="40.13333333333333" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: -24634414#4-->    <!--Edge: -24634414#5-->    <!--Edge: -24634415-->
+    <inductionLoop id="-24634415_1_start_loop" lane="-24634415_1" pos="6.4030000000000005" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-24634415_1_1_loop" lane="-24634415_1" pos="21.343333333333334" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-24634415_1_2_loop" lane="-24634415_1" pos="42.68666666666667" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: -24693977#0-->    <!--Edge: -24693977#1-->
+    <inductionLoop id="-24693977#1_1_start_loop" lane="-24693977#1_1" pos="9.674" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-24693977#1_1_1_loop" lane="-24693977#1_1" pos="32.24666666666666" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-24693977#1_1_2_loop" lane="-24693977#1_1" pos="64.49333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-24693977#1_2_start_loop" lane="-24693977#1_2" pos="9.674" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-24693977#1_2_1_loop" lane="-24693977#1_2" pos="32.24666666666666" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-24693977#1_2_2_loop" lane="-24693977#1_2" pos="64.49333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-24693977#1_3_start_loop" lane="-24693977#1_3" pos="9.674" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-24693977#1_3_1_loop" lane="-24693977#1_3" pos="32.24666666666666" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-24693977#1_3_2_loop" lane="-24693977#1_3" pos="64.49333333333333" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: -266565295#5-->
+    <inductionLoop id="-266565295#5_1_1_loop" lane="-266565295#5_1" pos="57.586666666666666" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-266565295#5_1_2_loop" lane="-266565295#5_1" pos="115.17333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-266565295#5_2_1_loop" lane="-266565295#5_2" pos="57.586666666666666" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-266565295#5_2_2_loop" lane="-266565295#5_2" pos="115.17333333333333" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: -315358253#1-->
+    <inductionLoop id="-315358253#1_1_1_loop" lane="-315358253#1_1" pos="21.3" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-315358253#1_1_2_loop" lane="-315358253#1_1" pos="42.6" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: -315358253#2-->    <!--Edge: -32124743-->    <!--Edge: -32124744-->    <!--Edge: -32124745-->
+    <inductionLoop id="-32124745_1_1_loop" lane="-32124745_1" pos="34.49666666666666" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-32124745_1_2_loop" lane="-32124745_1" pos="68.99333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-32124745_2_1_loop" lane="-32124745_2" pos="34.49666666666666" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-32124745_2_2_loop" lane="-32124745_2" pos="68.99333333333333" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: -32978638#0-->
+    <inductionLoop id="-32978638#0_1_start_loop" lane="-32978638#0_1" pos="4.929" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: -32999434#1-->
+    <inductionLoop id="-32999434#1_1_1_loop" lane="-32999434#1_1" pos="36.68333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-32999434#1_1_2_loop" lane="-32999434#1_1" pos="73.36666666666666" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-32999434#1_2_1_loop" lane="-32999434#1_2" pos="36.68333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-32999434#1_2_2_loop" lane="-32999434#1_2" pos="73.36666666666666" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: -37386279-->
+    <inductionLoop id="-37386279_1_1_loop" lane="-37386279_1" pos="30.30333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-37386279_1_2_loop" lane="-37386279_1" pos="60.60666666666666" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: -653473569#5-->
+    <inductionLoop id="-653473569#5_1_1_loop" lane="-653473569#5_1" pos="24.349999999999998" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-653473569#5_1_2_loop" lane="-653473569#5_1" pos="48.699999999999996" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: -83304175#2-->
+    <inductionLoop id="-83304175#2_1_1_loop" lane="-83304175#2_1" pos="63.11333333333334" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="-83304175#2_1_2_loop" lane="-83304175#2_1" pos="126.22666666666667" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 104010354-->    <!--Edge: 104010439#1-->    <!--Edge: 104010460#1-->    <!--Edge: 104010475#0-->    <!--Edge: 104012170-->    <!--Edge: 10425609#0-->
+    <inductionLoop id="10425609#0_1_start_loop" lane="10425609#0_1" pos="4.358" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="10425609#0_2_start_loop" lane="10425609#0_2" pos="4.358" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="10425609#0_3_start_loop" lane="10425609#0_3" pos="4.358" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 10425609#1-->    <!--Edge: 118362731-->    <!--Edge: 124812856#0-->
+    <inductionLoop id="124812856#0_1_start_loop" lane="124812856#0_1" pos="3.958" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="124812856#0_2_start_loop" lane="124812856#0_2" pos="3.958" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 124812856#1-->    <!--Edge: 124812857#0-->
+    <inductionLoop id="124812857#0_1_1_loop" lane="124812857#0_1" pos="47.830000000000005" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="124812857#0_1_2_loop" lane="124812857#0_1" pos="95.66000000000001" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="124812857#0_2_1_loop" lane="124812857#0_2" pos="47.830000000000005" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="124812857#0_2_2_loop" lane="124812857#0_2" pos="95.66000000000001" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="124812857#0_3_1_loop" lane="124812857#0_3" pos="47.830000000000005" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="124812857#0_3_2_loop" lane="124812857#0_3" pos="95.66000000000001" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 164051413-->    <!--Edge: 168702039#1-->
+    <inductionLoop id="168702039#1_1_1_loop" lane="168702039#1_1" pos="40.81333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="168702039#1_1_2_loop" lane="168702039#1_1" pos="81.62666666666667" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="168702039#1_2_1_loop" lane="168702039#1_2" pos="40.81333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="168702039#1_2_2_loop" lane="168702039#1_2" pos="81.62666666666667" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 168702040#1-->    <!--Edge: 168702040#2-->
+    <inductionLoop id="168702040#2_1_1_loop" lane="168702040#2_1" pos="21.02" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="168702040#2_1_2_loop" lane="168702040#2_1" pos="42.04" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="168702040#2_2_1_loop" lane="168702040#2_2" pos="21.02" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="168702040#2_2_2_loop" lane="168702040#2_2" pos="42.04" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="168702040#2_3_1_loop" lane="168702040#2_3" pos="21.02" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="168702040#2_3_2_loop" lane="168702040#2_3" pos="42.04" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 168702040#3-->
+    <inductionLoop id="168702040#3_1_1_loop" lane="168702040#3_1" pos="23.036666666666665" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="168702040#3_1_2_loop" lane="168702040#3_1" pos="46.07333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="168702040#3_2_1_loop" lane="168702040#3_2" pos="23.036666666666665" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="168702040#3_2_2_loop" lane="168702040#3_2" pos="46.07333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="168702040#3_3_1_loop" lane="168702040#3_3" pos="23.036666666666665" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="168702040#3_3_2_loop" lane="168702040#3_3" pos="46.07333333333333" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 168702040#4-->    <!--Edge: 172488482#0-->    <!--Edge: 172488483#0-->    <!--Edge: 201089423#0-->
+    <inductionLoop id="201089423#0_1_1_loop" lane="201089423#0_1" pos="20.063333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="201089423#0_1_2_loop" lane="201089423#0_1" pos="40.126666666666665" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="201089423#0_2_1_loop" lane="201089423#0_2" pos="20.063333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="201089423#0_2_2_loop" lane="201089423#0_2" pos="40.126666666666665" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 201089423#2-->    <!--Edge: 201956810-->
+    <inductionLoop id="201956810_1_1_loop" lane="201956810_1" pos="23.883333333333336" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="201956810_1_2_loop" lane="201956810_1" pos="47.76666666666667" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 201956811#0-->    <!--Edge: 201956819#0-->
+    <inductionLoop id="201956819#0_1_1_loop" lane="201956819#0_1" pos="35.22" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="201956819#0_1_2_loop" lane="201956819#0_1" pos="70.44" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="201956819#0_2_1_loop" lane="201956819#0_2" pos="35.22" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="201956819#0_2_2_loop" lane="201956819#0_2" pos="70.44" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 201956820-->    <!--Edge: 201956821#0-->
+    <inductionLoop id="201956821#0_1_1_loop" lane="201956821#0_1" pos="22.983333333333334" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="201956821#0_1_2_loop" lane="201956821#0_1" pos="45.96666666666667" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="201956821#0_2_1_loop" lane="201956821#0_2" pos="22.983333333333334" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="201956821#0_2_2_loop" lane="201956821#0_2" pos="45.96666666666667" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 201956821#1.68-->    <!--Edge: 201963535-->    <!--Edge: 201963537#1-->
+    <inductionLoop id="201963537#1_1_1_loop" lane="201963537#1_1" pos="47.919999999999995" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="201963537#1_1_2_loop" lane="201963537#1_1" pos="95.83999999999999" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="201963537#1_2_1_loop" lane="201963537#1_2" pos="47.919999999999995" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="201963537#1_2_2_loop" lane="201963537#1_2" pos="95.83999999999999" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="201963537#1_3_1_loop" lane="201963537#1_3" pos="47.919999999999995" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="201963537#1_3_2_loop" lane="201963537#1_3" pos="95.83999999999999" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 202070434#0-->    <!--Edge: 202070434#2-->    <!--Edge: 22716549#0-->
+    <inductionLoop id="22716549#0_1_1_loop" lane="22716549#0_1" pos="89.85333333333334" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="22716549#0_1_2_loop" lane="22716549#0_1" pos="179.70666666666668" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 24599188#0.94-->
+    <inductionLoop id="24599188#0.94_1_start_loop" lane="24599188#0.94_1" pos="10.0" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="24599188#0.94_1_1_loop" lane="24599188#0.94_1" pos="62.196666666666665" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="24599188#0.94_1_2_loop" lane="24599188#0.94_1" pos="124.39333333333333" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 24608844-->
+    <inductionLoop id="24608844_1_start_loop" lane="24608844_1" pos="10.0" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="24608844_1_1_loop" lane="24608844_1" pos="55.833333333333336" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="24608844_1_2_loop" lane="24608844_1" pos="111.66666666666667" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 24608846#1-->
+    <inductionLoop id="24608846#1_1_start_loop" lane="24608846#1_1" pos="6.0200000000000005" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="24608846#1_1_1_loop" lane="24608846#1_1" pos="20.066666666666666" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="24608846#1_1_2_loop" lane="24608846#1_1" pos="40.13333333333333" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 24634414#4-->    <!--Edge: 24634414#5-->    <!--Edge: 24634414#5.51-->    <!--Edge: 24634415-->
+    <inductionLoop id="24634415_1_1_loop" lane="24634415_1" pos="21.343333333333334" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="24634415_1_2_loop" lane="24634415_1" pos="42.68666666666667" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 24693977#0-->    <!--Edge: 24693977#1-->
+    <inductionLoop id="24693977#1_1_1_loop" lane="24693977#1_1" pos="32.276666666666664" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="24693977#1_1_2_loop" lane="24693977#1_1" pos="64.55333333333333" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 25145012#7-->
+    <inductionLoop id="25145012#7_1_start_loop" lane="25145012#7_1" pos="9.623000000000001" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="25145012#7_1_1_loop" lane="25145012#7_1" pos="32.07666666666667" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="25145012#7_1_2_loop" lane="25145012#7_1" pos="64.15333333333334" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 25149219#1-->
+    <inductionLoop id="25149219#1_1_1_loop" lane="25149219#1_1" pos="47.32" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="25149219#1_1_2_loop" lane="25149219#1_1" pos="94.64" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 266565295#5-->
+    <inductionLoop id="266565295#5_1_start_loop" lane="266565295#5_1" pos="10.0" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="266565295#5_1_1_loop" lane="266565295#5_1" pos="57.89666666666667" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="266565295#5_1_2_loop" lane="266565295#5_1" pos="115.79333333333334" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="266565295#5_2_start_loop" lane="266565295#5_2" pos="10.0" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="266565295#5_2_1_loop" lane="266565295#5_2" pos="57.89666666666667" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="266565295#5_2_2_loop" lane="266565295#5_2" pos="115.79333333333334" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 27920078#0-->
+    <inductionLoop id="27920078#0_1_start_loop" lane="27920078#0_1" pos="3.766" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="27920078#0_2_start_loop" lane="27920078#0_2" pos="3.766" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="27920078#0_3_start_loop" lane="27920078#0_3" pos="3.766" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="27920078#0_4_start_loop" lane="27920078#0_4" pos="3.766" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 27920078#1-->    <!--Edge: 285716192#0-->
+    <inductionLoop id="285716192#0_1_1_loop" lane="285716192#0_1" pos="27.939999999999998" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="285716192#0_1_2_loop" lane="285716192#0_1" pos="55.879999999999995" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="285716192#0_2_1_loop" lane="285716192#0_2" pos="27.939999999999998" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="285716192#0_2_2_loop" lane="285716192#0_2" pos="55.879999999999995" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 285716192#0.83-->    <!--Edge: 29236658#2-->    <!--Edge: 315358253#1-->
+    <inductionLoop id="315358253#1_1_start_loop" lane="315358253#1_1" pos="6.409000000000001" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="315358253#1_1_1_loop" lane="315358253#1_1" pos="21.363333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="315358253#1_1_2_loop" lane="315358253#1_1" pos="42.72666666666667" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 315358253#2-->    <!--Edge: 32021112#0-->
+    <inductionLoop id="32021112#0_1_1_loop" lane="32021112#0_1" pos="19.55333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="32021112#0_1_2_loop" lane="32021112#0_1" pos="39.10666666666666" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="32021112#0_2_1_loop" lane="32021112#0_2" pos="19.55333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="32021112#0_2_2_loop" lane="32021112#0_2" pos="39.10666666666666" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="32021112#0_3_1_loop" lane="32021112#0_3" pos="19.55333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="32021112#0_3_2_loop" lane="32021112#0_3" pos="39.10666666666666" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 32124634-->    <!--Edge: 32124637#0-->    <!--Edge: 32124637#1-->    <!--Edge: 32124743-->    <!--Edge: 32124744-->    <!--Edge: 32978638#0-->    <!--Edge: 32999110#0-->
+    <inductionLoop id="32999110#0_1_1_loop" lane="32999110#0_1" pos="38.663333333333334" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="32999110#0_1_2_loop" lane="32999110#0_1" pos="77.32666666666667" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="32999110#0_2_1_loop" lane="32999110#0_2" pos="38.663333333333334" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="32999110#0_2_2_loop" lane="32999110#0_2" pos="77.32666666666667" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="32999110#0_3_1_loop" lane="32999110#0_3" pos="38.663333333333334" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="32999110#0_3_2_loop" lane="32999110#0_3" pos="77.32666666666667" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 32999434#0-->
+    <inductionLoop id="32999434#0_1_1_loop" lane="32999434#0_1" pos="37.61333333333334" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="32999434#0_1_2_loop" lane="32999434#0_1" pos="75.22666666666667" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="32999434#0_2_1_loop" lane="32999434#0_2" pos="37.61333333333334" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="32999434#0_2_2_loop" lane="32999434#0_2" pos="75.22666666666667" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 32999435-->    <!--Edge: 37386279-->
+    <inductionLoop id="37386279_1_start_loop" lane="37386279_1" pos="9.315000000000001" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="37386279_1_1_loop" lane="37386279_1" pos="31.05" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="37386279_1_2_loop" lane="37386279_1" pos="62.1" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 391891458#0-->    <!--Edge: 402600768#0-->    <!--Edge: 402600768#1-->
+    <inductionLoop id="402600768#1_1_1_loop" lane="402600768#1_1" pos="20.55666666666667" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="402600768#1_1_2_loop" lane="402600768#1_1" pos="41.11333333333334" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="402600768#1_2_1_loop" lane="402600768#1_2" pos="20.55666666666667" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="402600768#1_2_2_loop" lane="402600768#1_2" pos="41.11333333333334" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 51857516#1-->
+    <inductionLoop id="51857516#1_1_1_loop" lane="51857516#1_1" pos="22.333333333333332" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="51857516#1_1_2_loop" lane="51857516#1_1" pos="44.666666666666664" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="51857516#1_2_1_loop" lane="51857516#1_2" pos="22.333333333333332" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="51857516#1_2_2_loop" lane="51857516#1_2" pos="44.666666666666664" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 51857517#0-->    <!--Edge: 51857517#0.33-->    <!--Edge: 51857517#1-->    <!--Edge: 51857518#1-->
+    <inductionLoop id="51857518#1_1_1_loop" lane="51857518#1_1" pos="18.566666666666666" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="51857518#1_1_2_loop" lane="51857518#1_1" pos="37.13333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="51857518#1_2_1_loop" lane="51857518#1_2" pos="18.566666666666666" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="51857518#1_2_2_loop" lane="51857518#1_2" pos="37.13333333333333" freq="60" file="output/loop_detectors.xml" />
+    <!--Edge: 653473569#5-->
+    <inductionLoop id="653473569#5_1_start_loop" lane="653473569#5_1" pos="7.355" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="653473569#5_1_1_loop" lane="653473569#5_1" pos="24.516666666666666" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="653473569#5_1_2_loop" lane="653473569#5_1" pos="49.03333333333333" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="653473569#5_2_start_loop" lane="653473569#5_2" pos="7.355" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="653473569#5_2_1_loop" lane="653473569#5_2" pos="24.516666666666666" freq="60" file="output/loop_detectors.xml" />
+    <inductionLoop id="653473569#5_2_2_loop" lane="653473569#5_2" pos="49.03333333333333" freq="60" file="output/loop_detectors.xml" />
+</additional>

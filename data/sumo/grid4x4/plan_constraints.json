@@ -1,0 +1,754 @@
+[
+    {
+        "controller_id": "A0",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 1,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 2,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 3,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 4,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 5,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 6,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 7,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 8,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "A1",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 9,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 10,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 11,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 12,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 13,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 14,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 15,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 16,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "A2",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 17,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 18,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 19,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 20,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 21,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 22,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 23,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 24,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "A3",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 25,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 26,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 27,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 28,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 29,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 30,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 31,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 32,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "B0",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 33,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 34,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 35,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 36,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 37,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 38,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 39,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 40,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "B1",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 41,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 42,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 43,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 44,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 45,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 46,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 47,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 48,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "B2",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 49,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 50,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 51,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 52,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 53,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 54,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 55,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 56,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "B3",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 57,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 58,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 59,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 60,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 61,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 62,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 63,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 64,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "C0",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 65,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 66,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 67,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 68,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 69,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 70,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 71,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 72,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "C1",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 73,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 74,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 75,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 76,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 77,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 78,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 79,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 80,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "C2",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 81,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 82,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 83,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 84,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 85,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 86,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 87,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 88,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "C3",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 89,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 90,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 91,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 92,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 93,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 94,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 95,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 96,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "D0",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 97,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 98,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 99,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 100,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 101,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 102,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 103,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 104,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "D1",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 105,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 106,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 107,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 108,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 109,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 110,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 111,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 112,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "D2",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 113,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 114,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 115,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 116,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 117,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 118,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 119,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 120,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "D3",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 121,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 122,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 123,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 124,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 125,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 126,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 127,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 128,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    }
+]

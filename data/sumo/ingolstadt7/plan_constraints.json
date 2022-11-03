@@ -1,0 +1,151 @@
+[
+    {
+        "controller_id": "32564122",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 1,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 2,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "cluster_1041665625_cluster_1387938793_1387938796_cluster_1757124361_1757124367_32564126",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 3,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 4,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 5,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "cluster_1757124350_1757124352",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 6,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 7,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 8,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "cluster_274083968_cluster_1200364014_1200364088",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 9,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 10,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 11,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "cluster_306484187_cluster_1200363791_1200363826_1200363834_1200363898_1200363927_1200363938_1200363947_1200364074_1200364103_1507566554_1507566556_255882157_306484190",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 12,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 13,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 14,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "cluster_371462086_469470779_98101387_cluster_371462067_371775459_371775468",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 15,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 16,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 17,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    },
+    {
+        "controller_id": "cluster_cluster_1833965782_cluster_32564118_371775504_cluster_1833965806_371781950",
+        "mode": "free",
+        "shift": 0,
+        "phases": [
+            {
+                "phase_id": 18,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 19,
+                "phase_min": 10,
+                "phase_max": 100
+            },
+            {
+                "phase_id": 20,
+                "phase_min": 10,
+                "phase_max": 100
+            }
+        ]
+    }
+]
